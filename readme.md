@@ -1,8 +1,9 @@
 
-Configure class objects from text file
+# Configure class objects from text file
 
 
-_Configuration example_
+## Configuration example
+*Test.txt*
 ~~~~
 Common
 (
