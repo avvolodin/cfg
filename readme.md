@@ -2,7 +2,7 @@
 # Configure class objects from text file
 
 
-## Configuration example
+##  Configuration example
 *Test.txt*
 ~~~~
 Common
